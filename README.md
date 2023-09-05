@@ -1,102 +1,97 @@
-# tech-tools
+a# tech-tools
 List of tools I use
 
 
 # macOS
+Enable Sidecar:
 
-Mac Key Forwarder:
-https://github.com/milgra/macmediakeyforwarder
+```  defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane ```
 
 Open Core:
 https://github.com/dortania/OpenCore-Legacy-Patcher
 
-Enable Sidecar:
-  ```  defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane ```
 
-    Android-platform-tools
-    OneDrive
-    Python 3.11
-    Utilities
-    1Password for Safari
-    1Password
-    AdBlock Pro
-    Adobe Lightroom
-    Amphetamine
-    Android File Transfer
-    AppCleaner
-    Authy Desktop
-    Books
-    Brave Browser
-    calibre
-    Cemu
-    ColorSlurp
-    Dolphin Updater
-    Dolphin
-    Dropbox
-    Evernote
-    Ferdium
-    Figma
-    FileZilla
-    Find My
-    Firefox
-    Flux
-    Font Book
-    Freeform
-    Gas Mask
-    GIMP
-    Google Chrome
-    Google Docs
-    Google Drive
-    Google Sheets
-    Google Slides
-    Irvue
-    iTerm
-    Keka
-    MacMediaKeyForwarder
-    Mail
-    Menu World Time
-    Microsoft Edge
-    Microsoft Excel
-    Microsoft OneNote
-    Microsoft Outlook
-    Microsoft PowerPoint
-    Microsoft Remote Desktop
-    Microsoft Teams
-    Microsoft To Do
-    Microsoft Word
-    Mission Control
-    Microsoft Word
-    News
-    NordVPN
-    Notes
-    OnyX
-    OpenCore-Patcher
-    OpenEmu
-    Parallels Desktop
-    PiBar
-    PixelFlasher
-    Plex
-    Pocket
-    QuickTime Player
-    Rectangle
-    RetroArch
-    ServiceStudio
-    Shortcuts
-    Skype
-    Spotify
-    Stickies
-    TeamViewer
-    TextEdit
-    ToothFairy
-    Transmission
-    Visual Studio Code
-    VLC
-    WhatsApp
-    WireGuard
-    zoom.us
+# MAC APPS:
+## BROWSERS:
+- Brave Browser
+- Firefox
+-   Tab-Suspeder: https://github.com/dvalter/ff-thegreatsuspender
+- Google Chrome
+- AdBlock Pro
+
+
+DEV TOOLS:
+- Android-platform-tools: https://developer.android.com/tools/releases/platform-tools
+- Android File Transfer
+- Python 3.11
+- PixelFlasher
+- Transmission
+- Visual Studio Code
+- FileZilla
+- Gas Mask
+- iTerm
+- Microsoft Remote Desktop
+
+    
+STORAGE:
+- OneDrive
+- Dropbox
+
+SOCIAL:
+- Ferdium
+- WhatsApp
+
+WORK:
+- Evernote
+- Figma
+- Microsoft Edge
+- Microsoft Excel
+- Microsoft OneNote
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Teams
+- Microsoft Word
+- zoom.us
+
+
+UTILITIES:
+- 1Password
+- Amphetamine
+- AppCleaner
+- Authy Desktop
+- ColorSlurp
+- Flux
+- Irvue
+- Keka
+- MacMediaKeyForwarder | https://github.com/milgra/macmediakeyforwarder
+- Menu World Time
+- Microsoft To Do
+- NordVPN
+- OnyX
+- OpenCore-Patcher
+- Parallels Desktop
+- PiBar
+- Rectangle
+- Skype
+- TeamViewer
+- ToothFairy
+- WireGuard
+
+MEDIA:
+- Adobe Lightroom
+- calibre
+- Cemu
+- Dolphin
+- GIMP
+- OpenEmu
+- Plex
+- Pocket
+- RetroArch
+- Spotify
+- VLC
 
 # FIREFOX
-https://github.com/dvalter/ff-thegreatsuspender
+
 
 
 # SWITCH
