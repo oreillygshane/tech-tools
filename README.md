@@ -1,4 +1,4 @@
-a# tech-tools
+# tech-tools
 Misc list of things I use
 
 # macOS
@@ -43,14 +43,15 @@ Enable Sidecar:
 ## WORK:
 - Evernote - Microsoft Edge | 
 - Figma - Microsoft Edge | 
--- Microsoft Excelc
--- Microsoft OneNote | 
--- Microsoft Outlook | 
--- Microsoft PowerPoint | 
--- Microsoft Word | 
+- Office 365
+    - Microsoft Excel
+    - Microsoft OneNote
+    - Microsoft Outlook
+    - Microsoft PowerPoint
+    - Microsoft Word
 - Microsoft Edge | 
 - Microsoft Teams |
-- - zoom.us | 
+- zoom.us | 
 
 
 ## UTILITIES:
