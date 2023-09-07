@@ -1,6 +1,6 @@
 # Tech Tools
 Random list of things I use across:
-1. macOS: Misc
+1. [macOS: Misc](#1.-macOS:-Misc)
 2. macOS: Personal
 3. macOS: Server
 4. Firefox Plugins
