@@ -1,10 +1,17 @@
-﻿# tech-tools
-Random list of things I use
+# Tech Tools
+Random list of things I use across:
+1. macOS: Personal
+2. macOS: Server
+3. Firefox Plugins
+4. Android
+5. Switch
+6. Raspberry Pi
+7. Synology NAS
 
 # macOS misc:
 ### 1. Enable latest OS updates, on unsupported Mac models:
-> OpenCore Legacy Patcher 
-> [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
+- OpenCore Legacy Patcher 
+- [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
 
 ### 2. Remove Screenshot Shadow
 Run this in Terminal:
@@ -45,9 +52,9 @@ Run this in Terminal:
 ## STORAGE
 | What?        | Why?                       | Link |
 |--------------|----------------------------|------|
-| Dropbox      | Screenshots                |[Official Site]      |
-| Google Drive | Documents                  |[Official Site]      |
-| OneDrive     | Large Storage via M365 Sub |[Official Site]      |
+| Dropbox      | Screenshots Backup                |[Official Site](https://www.dropbox.com/desktop)      |
+| Google Drive | Documents Repoo                  |[Official Site](https://www.google.com/drive/download/)      |
+| OneDrive     | Large Storage via M365 Sub |[macOS App Store](https://apps.apple.com/us/app/onedrive/id823766827)      |
 
 
 ## SOCIAL
@@ -74,19 +81,20 @@ Run this in Terminal:
 ## UTILITIES:
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| 1Password               | Password Manager                             |                                                            |
-| Amphetamine             | Stop macOS from sleeping                             |                                                            |
-| AppCleaner              | Uninstall Manager                             |                                                            |
-| Authy Desktop           | 2FA Manager                             |                                                            |
-| ColorSlurp              | Pick the HEX code from anywhere on your screen                             |                                                            |
-| Flux                    | Removes Blue light from macOS                     |                                                            |
-| Irvue                   |                              |                                                            |
-| Keka                    |                              |                                                            |
-| MacMediaKeyForwarder    |                              | [Github](https://github.com/milgra/macmediakeyforwarder)             |
-| Menu World Time         |                              | [macOS App Store](https://apps.apple.com/us/app/menu-world-time/id1446377255) |
-| Microsoft To Do         |                              |                                                            |
-| NordVPN                 |                              |                                                            |
-| OnyX                    |                              | [Official Site](https://titanium-software.fr/en/onyx.html)                  |
+| 1Password               | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)                                                            |
+| Aerial             | Apple TV Screensavers, on macOS                          | [Github](https://aerialscreensaver.github.io/)                                                           |
+| Amphetamine             | Stop macOS from sleeping                             | [macOS App Store](https://apps.apple.com/us/app/amphetamine/id937984704)                                                           |
+| AppCleaner              | Uninstall Manager                             | [Official Site](https://freemacsoft.net/appcleaner/)                                                            |
+| Authy Desktop           | 2FA Manager                             | [Official Site](https://authy.com/download/)                                                           |
+| ColorSlurp              | Pick the HEX code from anywhere on your screen                             |[macOS App Store](https://apps.apple.com/us/app/colorslurp/id1287239339)|
+| Flux                    | Removes Blue light from macOS                     |[Official Site](https://justgetflux.com/news/pages/macquickstart/)                                                            |
+| Irvue                   | Desktop Background Image Manager                             |[macOS App Store](https://apps.apple.com/us/app/irvue/id1039633667?mt=12)                                                  |
+| Keka                    | Archive Manager                             |[Official Site](https://www.keka.io/)                                                            |
+| MacMediaKeyForwarder    | Stops macOS play (⏯️) key from defaulting to Apple Music, and use Active Player (Spotify/Browser) instead                              | [Github](https://github.com/milgra/macmediakeyforwarder)             |
+| Menu World Time         | App for showing timezones in Menu Bar                             | [macOS App Store](https://apps.apple.com/us/app/menu-world-time/id1446377255) |
+| Microsoft To Do         | To-Dos                             | [macOS App Store](https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12)                                                            |
+| NordVPN                 | VPN with origin servers Globally                          | [macOS App Store](https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485)                                                            |
+| OnyX                    | macOS deep cleaning                             | [Official Site](https://titanium-software.fr/en/onyx.html)                  |
 | Parallels Desktop       |                              |                                                            |
 | PiBar                   |                              | [Github](https://github.com/amiantos/pibar)                          |
 | Rectangle               |                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
@@ -146,3 +154,4 @@ Run this in Terminal:
 
 # iPadOS
 - 
+
