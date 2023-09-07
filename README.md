@@ -1,14 +1,16 @@
 # Tech Tools
 Random list of things I use across:
-1. macOS: Personal
-2. macOS: Server
-3. Firefox Plugins
-4. Android
-5. Switch
-6. Raspberry Pi
+1. macOS: Misc
+2. macOS: Personal
+3. macOS: Server
+4. Firefox Plugins
+5. Android
+6. Switch
 7. Synology NAS
+8.  Raspberry Pi
+9. iPadOS
 
-# macOS misc:
+# 1. macOS: Misc
 ### 1. Enable latest OS updates, on unsupported Mac models:
 - OpenCore Legacy Patcher 
 - [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
@@ -23,8 +25,8 @@ Run this in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
 
-# macOS LAPTOP
-## BROWSERS
+# 2. macOS: Personal
+## 2.1 BROWSERS
 | What?               	| What                         							 	| Link                        		|
 |-----------------|---------------------------------------------|-------------------------------|
 |Brave Browser	 	| Privacy-focused Browser, with TOR support		| Official Site									|
@@ -35,7 +37,7 @@ Run this in Terminal:
 -  AdBlock Pro
 
 
-## DEV TOOLS
+## 2.2 DEV TOOLS
 | What?                          | Why?             | Link                                                         |
 |--------------------------|------------------|-------------------------------------------------------------|
 | Android-platform-tools   | Tools for Android Dev Connectivity                 | [Official Site](https://developer.android.com/tools/releases/platform-tools) |
@@ -49,7 +51,7 @@ Run this in Terminal:
 | YT-DLP                   | CLI for ripping Online Vids                   |[Github](https://github.com/yt-dlp/yt-dlp)                            |
 
     
-## STORAGE
+## 2.3 STORAGE
 | What?        | Why?                       | Link |
 |--------------|----------------------------|------|
 | Dropbox      | Screenshots Backup                |[Official Site](https://www.dropbox.com/desktop)      |
@@ -57,7 +59,7 @@ Run this in Terminal:
 | OneDrive     | Large Storage via M365 Sub |[macOS App Store](https://apps.apple.com/us/app/onedrive/id823766827)      |
 
 
-## SOCIAL
+## 2.4 SOCIAL
 | What?    | Why?            | Link                                                              |
 |----------|-----------------|-------------------------------------------------------------------|
 | Ferdium  | Chat aggregator |  [Github](https://github.com/ferdium/ferdium-app)                            |
@@ -66,7 +68,7 @@ Run this in Terminal:
 
 
 
-## WORK 
+## 2.5 WORK 
 
 | What?                                                                                                             | Why?     | Link                                                         |
 |-------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------|
@@ -78,7 +80,7 @@ Run this in Terminal:
 | zoom.us                                                                                                           | Calls | [Official Site](https://zoom.us/download)                                     |
 
 
-## UTILITIES:
+## 2.6 UTILITIES:
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | 1Password               | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)                                                            |
@@ -95,63 +97,64 @@ Run this in Terminal:
 | Microsoft To Do         | To-Dos                             | [macOS App Store](https://apps.apple.com/us/app/microsoft-to-do/id1274495053?mt=12)                                                            |
 | NordVPN                 | VPN with origin servers Globally                          | [macOS App Store](https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485)                                                            |
 | OnyX                    | macOS deep cleaning                             | [Official Site](https://titanium-software.fr/en/onyx.html)                  |
-| Parallels Desktop       |                              |                                                            |
-| PiBar                   |                              | [Github](https://github.com/amiantos/pibar)                          |
-| Rectangle               |                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
-| Skype                   |                              |                                                            |
-| TeamViewer              |                              |                                                            |
-| ToothFairy              | Bluetooth Headphones Manager |                                                            |
+| Parallels Desktop       | Windows VM on macOS                             |[Fake Github](https://git.icrack.day/somebasj/ParallelsDesktopCrack)                                                            | 
+| PiBar                   | Menu Bar for Pi Hole                             | [Github](https://github.com/amiantos/pibar)                          |
+| Rectangle               | Window re-sizer                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
+| Skype                   | Cheap landline phone-calls |[Official Site](https://www.skype.com/en/get-skype/download-skype-for-desktop/)                                                          |
+| TeamViewer              | Remote Desktop Viewer                             |[Official Site](https://www.teamviewer.com/en-us/download/macos/)                                                            |
+| ToothFairy              | Bluetooth Headphones Manager |[Official Site](https://apps.apple.com/us/app/toothfairy/id1191449274)                                                            |
 | WireGuard               | VPN Client                   | [macOS App Store](https://itunes.apple.com/us/app/wireguard/id1451685025)     |
 
-## MEDIA:
-- Adobe Lightroom
-- calibre
-- Cemu
-- Dolphin
-- GIMP
-- OpenEmu
-- Plex
-- Pocket | 
-- RetroArch | [Official Site](https://www.retroarch.com/?page=platforms)
-- Spotify | [Official Site](https://www.spotify.com/us/download/)
-- VLC | [Official Site](https://code.videolan.org/videolan/vlc/)
+## 2.7 MEDIA:
+| What?           	| Why?                    	| Link                                                             	|
+|-----------------	|-------------------------	|------------------------------------------------------------------	|
+| Adobe Lightroom 	| Photo Editing           	| [macOS App Store]https://apps.apple.com/us/app/adobe-lightroom/id1451544217 	|
+| calibre         	| EBook Management        	| [Official Site](https://www.calibre-ebook.com/download_osx)                       	|
+| Cemu            	| WiiU Emulator           	| [Github](https://github.com/cemu-project/Cemu)                             	|
+| Dolphin         	| Gamecube / Wii Emulator 	| [Official Site](https://dolphin-emu.org/download/)                                	|
+| GIMP            	| Image Editor            	| [Official Site](https://www.gimp.org/downloads/)                                  	|
+| OpenEmu         	| Multi-console Emulator  	|[Official Site](http://openemu.org/)                                              	|
+| Plex            	| Plex Player Client      	| [Official Site](https://www.plex.tv/media-server-downloads/#plex-app)              	|
+| RetroArch       	| Multi-console Emulator  	| [Official Site](https://www.retroarch.com/?page=platforms)       	|
+| Spotify         	| Music                   	| [Official Site](https://www.spotify.com/us/download/)            	|
+| VLC             	| Video Player            	| [Official Site](https://code.videolan.org/videolan/vlc/)         	|
 
-# macOS SERVER:
+
+
+# 3. macOS: Server
 - RADARR
 - SONARR
 - UTorrent
 - 
 
 
-# FIREFOX
+# 4. Firefox Plugins
 - Plugins
 
-
-# SWITCH
-- DeepSea | [Github](https://github.com/Team-Neptune/DeepSea)
-- RetroArch | [Official Site](https://www.retroarch.com/?page=platforms)
-
-
-# SYNOLOGY
-- Docker |
-- Plex Server | 
-
-
-# RASPBERRY PI
-- Log2RAM | [Github](https://github.com/azlux/log2ram)
-- PiHole | [Github](https://github.com/pi-hole/pi-hole)
-- PiVPN | [Github](https://github.com/pivpn/pivpn)
-- Raspotify | [Github](https://github.com/dtcooper/raspotify)
-
-
-# Android
+# 5. Android
 - Magisk | [Github](https://github.com/topjohnwu/Magisk)
 - Wireguard | https://play.google.com/store/apps/details?id=com.wireguard.android
 - Adaway
 - Energised Blocker
 - Microsoft Launcher
 
+# 6. Nintendo Switch
+- DeepSea | [Github](https://github.com/Team-Neptune/DeepSea)
+- RetroArch | [Official Site](https://www.retroarch.com/?page=platforms)
 
-# iPadOS
+
+# 7. Synology NAS
+- Docker |
+- Plex Server | 
+
+
+# 8. Raspberry Pi
+- Log2RAM | [Github](https://github.com/azlux/log2ram)
+- PiHole | [Github](https://github.com/pi-hole/pi-hole)
+- PiVPN | [Github](https://github.com/pivpn/pivpn)
+- Raspotify | [Github](https://github.com/dtcooper/raspotify)
+
+
+
+# 9. iPadOS
 - 
-
