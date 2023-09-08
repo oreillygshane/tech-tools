@@ -1,31 +1,36 @@
 # Tech Tools
 Random list of things I use across:
-1. [macOS: Misc](#2)
-2. macOS: Personal
-3. macOS: Server
-4. Firefox Plugins
-5. Android
-6. Switch
-7. Synology NAS
-8.  Raspberry Pi
-9. iPadOS
+1. 🍎 [macOS: Misc](#2)
+2. 💻 macOS: Personal
+3. 🖥️ macOS: Server
+4. 🦊 Firefox Plugins
+5. 🤖 Android
+6. 🎮 Nintendo Switch
+7. 🖥️ Synology NAS
+8. 🥧 Raspberry Pi
+9. 📲 iPadOS
 
-# <a name="1"># 1 : macOS: Misc</a>
-### 1.1 : Enable latest OS updates, on unsupported Mac models:
+<br><br><br>
+
+# <a name="1">1. 🍎 macOS: Misc</a>
+## 1.1 : Enable latest OS updates, on unsupported Mac models:
 | OpenCore Legacy Patcher 
 | [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
 
-### 1.2 : Remove Screenshot Shadow
+## 1.2 : Remove Screenshot Shadow
 Run this in Terminal:
 > defaults write com.apple.screencapture disable-shadow -bool true
 > killall SystemUIServer
 
-### 1.3 : Enable Sidecar, on unsupported Mac models:
+#e# 1.3 : Enable Sidecar, on unsupported Mac models:
 Run this in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
 
-# 2 : macOS: Personal
+<br><br><br>
+
+
+# 2. 💻 macOS: Personal
 ## 2.1 : Browsers
 | What?               	| What                         							 	| Link                        		|
 |-----------------	|---------------------------------------------|-------------------------------|
@@ -33,9 +38,7 @@ Run this in Terminal:
 |Firefox          	| Privacy-focused Browser								 			|[Site](https://www.mozilla.org/en-US/firefox/mac/)           	|
 |Google Chrome		| Standard															| [Site](https://www.google.com/chrome/)	|
 
-|  Tab-Suspender: https://github.com/dvalter/ff-thegreatsuspender
-|  AdBlock Pro
-
+<br>
 
 ## 2.2 : Storage
 | What?        | Why?                       | Link |
@@ -44,6 +47,7 @@ Run this in Terminal:
 | Google Drive | Documents                  |[Site](https://www.google.com/drive/download/)      |
 | OneDrive     | Larger File Storage, via M365 1TB Sub |[macOS App Store](https://apps.apple.com/us/app/onedrive/id823766827)      |
 
+<br>
 
 ## 2.3 : Social
 | What?    | Why?            | Link                                                              |
@@ -52,7 +56,7 @@ Run this in Terminal:
 | Signal  | Messaging |  [Site](https://www.signal.org/download/macos/)                            |
 | WhatsApp | Messaging        | [macOS App Store](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723) |
 
-
+<br>
 
 ## 2.4 : Media
 | What?           	| Why?                    	| Link                                                             	|
@@ -68,6 +72,7 @@ Run this in Terminal:
 | Spotify         	| Music                   	| [Site](https://www.spotify.com/us/download/)            	|
 | VLC             	| Video Player            	| [Site](https://code.videolan.org/videolan/vlc/)         	|
 
+<br>
 
 ## 2.5 : Dev Tools
 | What?                          | Why?             | Link                                                         |
@@ -82,6 +87,7 @@ Run this in Terminal:
 | Visual Studio Code       | Code Editor                  | [Site](https://code.visualstudio.com/)                                                            |
 | YT-DLP                   | CLI for ripping online videos                   |[Github](https://github.com/yt-dlp/yt-dlp)                            |
 
+<br>
 
 ## 2.6 : Various Tools
 | What?                   | Why?                         | Link                                                       |
@@ -105,8 +111,9 @@ Run this in Terminal:
 | TeamViewer              | Remote Desktop Viewer                             |[Site](https://www.teamviewer.com/en-us/download/macos/)                                                            |
 | WireGuard               | VPN Client                   | [macOS App Store](https://itunes.apple.com/us/app/wireguard/id1451685025)     |
 
+<br>
 
-## 2.7 Services
+## 2.7 : Services
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Aerial             | Apple TV Screensavers, on macOS                          | [Github](https://aerialscreensaver.github.io/)                                                           |
@@ -124,8 +131,7 @@ Run this in Terminal:
 | ToothFairy              | Bluetooth Headphones Manager |[Site](https://apps.apple.com/us/app/toothfairy/id1191449274)                                                            |
 | YouType              | Locale Flags in Menu Bar |[Github](https://github.com/freefelt/YouType)                                                            |
 
-
-
+<br>
 
 ## 2.8 : Work 
 
@@ -139,45 +145,64 @@ Run this in Terminal:
 | zoom.us                                                                                                           | Video Calls | [Site](https://zoom.us/download)                                     |
 
 
-# 3. macOS: Server
+<br><br><br>
+
+
+# 3. 🖥️ macOS: Server
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Radarr | Movies Scanner | [Github](https://github.com/Radarr/Radarr)
 | Sonarr | TV Show Scanner | [Github](https://github.com/Sonarr/Sonarr) 
-| UTorrent |  | 
+| UTorrent | Torz  | 
 
 
-# 4. Firefox Plugins
+<br><br><br>
+
+
+# 4. 🦊 Firefox Plugins
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| Plugins |  | 
+|  Tab-Suspender | Suspend tabs to save RAM | [Github](https://github.com/dvalter/ff-thegreatsuspender)
+|  AdBlock Pro
 
 
-# 5. Android
+<br><br><br>
+
+
+# 5. 🤖 Android
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| Magisk | [Github](https://github.com/topjohnwu/Magisk) | 
-| Wireguard | [Play Store](https://play.google.com/store/apps/details?id=com.wireguard.android) | 
-| Adaway |  | 
-| Energised Blocker |  | 
-| Microsoft Launcher |  | 
+| Magisk | Mods | [Github](https://github.com/topjohnwu/Magisk) | 
+| Wireguard |VPN | [Play Store](https://play.google.com/store/apps/details?id=com.wireguard.android) | 
+| Adaway | Adblocker | 
+| Energised Blocker | Domain shitlist | 
+| Microsoft Launcher | Best Android home Launcher | 
 
 
-# 6. Nintendo Switch
+<br><br><br>
+
+
+# 6. 🎮 Nintendo Switch
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | DeepSea | [Github](https://github.com/Team-Neptune/DeepSea) | 
 | RetroArch | [Site](https://www.retroarch.com/?page=platforms) | 
 
 
-# 7. Synology NAS
+<br><br><br>
+
+
+# 7. 🖥️ Synology NAS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Docker | | 
 | Plex Server |  | 
 
 
-# 8. Raspberry Pi
+<br><br><br>
+
+
+# 8. 🥧 Raspberry Pi
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Log2RAM | [Github](https://github.com/azlux/log2ram) | 
@@ -186,8 +211,10 @@ Run this in Terminal:
 | Raspotify | [Github](https://github.com/dtcooper/raspotify) | 
 
 
+<br><br><br>
 
-# 9. iPadOS
+
+# 9. 📲 iPadOS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 |A  |B  |C 
