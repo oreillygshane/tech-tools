@@ -1,7 +1,4 @@
-# Tech Tools
-<br><br>
-
-Random list of things I use across:
+# SOR Tech Stack
 1. 🍎 [macOS: Misc](#1.-🍎-macos:-misc)
 2. 💻 macOS: Personal
 3. 🖥️ macOS: Server
@@ -134,6 +131,7 @@ Run this in Terminal:
 | Keka                    | Archive Manager                             |[Site](https://www.keka.io/)                                                            |
 | MacMediaKeyForwarder    | Stops macOS play (⏯️) key from defaulting to Apple Music, and use Active Player (Spotify/Browser) instead                              | [Github](https://github.com/milgra/macmediakeyforwarder)             |
 | Menu World Time         | App for showing timezones in Menu Bar                             | [macOS App Store](https://apps.apple.com/us/app/menu-world-time/id1446377255) |
+| Muse Bar         | Touchbar controls for Spotify                             | [Github](https://github.com/planecore/MuseBar) |
 | Muzzle         | Auto-DND when on calls                             | [Site](https://muzzleapp.com/) |
 | PiBar                   | Menu Bar for Pi Hole                             | [Github](https://github.com/amiantos/pibar)                          |
 | Postman                   | API Validation + Testing                             | [Website](https://www.postman.com/downloads/)     
