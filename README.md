@@ -1,4 +1,6 @@
 # Tech Tools
+<br><br>
+
 Random list of things I use across:
 1. 🍎 [macOS: Misc](#1.-🍎-macos:-misc)
 2. 💻 macOS: Personal
@@ -10,7 +12,7 @@ Random list of things I use across:
 8. 🥧 Raspberry Pi
 9. 📲 iPadOS
 
-<br><br><br>
+<br><br>
 
 # 1. 🍎 macOS: Misc
 
