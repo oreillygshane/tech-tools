@@ -1,6 +1,6 @@
 # Tech Tools
 Random list of things I use across:
-1. 🍎 [macOS: Misc](#2)
+1. 🍎 [macOS: Misc](#1.-🍎-macos:-misc)
 2. 💻 macOS: Personal
 3. 🖥️ macOS: Server
 4. 🦊 Firefox Plugins
@@ -12,17 +12,25 @@ Random list of things I use across:
 
 <br><br><br>
 
-# <a name="1">1. 🍎 macOS: Misc</a>
+# 1. 🍎 macOS: Misc
+
+
+
 ## 1.1 : Enable latest OS updates, on unsupported Mac models:
 | OpenCore Legacy Patcher 
 | [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
 
+<br>
+
 ## 1.2 : Remove Screenshot Shadow
-Run this in Terminal:
+Run both commands in Terminal:
 > defaults write com.apple.screencapture disable-shadow -bool true
+
 > killall SystemUIServer
 
-#e# 1.3 : Enable Sidecar, on unsupported Mac models:
+<br>
+
+## 1.3 : Enable Sidecar, on unsupported Mac models:
 Run this in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
@@ -137,11 +145,11 @@ Run this in Terminal:
 
 | What?                                                                                                             | Why?     | Link                                                         |
 |-------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| Evernote                                                                                                          | Scrapbook         | [macOS App Store](https://apps.apple.com/us/app/evernote/id406056744)           |
+| Evernote                                                                                                          | Word book         | [macOS App Store](https://apps.apple.com/us/app/evernote/id406056744)           |
 | Figma                                                                                                             | Crayons  | [Site](https://www.figma.com/downloads/)                             |
 | Microsoft Edge                                                                                                    | Work Browser | [Site](https://www.microsoft.com/en-us/edge/download)                |
 | Microsoft Teams                                                                                                   | 🤮  | [Site](https://www.microsoft.com/en-us/microsoft-teams/download-app) |
-| Office 365 <br>| Excel <br>| OneNote <br>| Outlook <br>| PowerPoint <br>| Word | Standard          | [Site](https://www.office.com/)                                     |
+| Office 365 <br>- Excel <br>- OneNote <br>- Outlook <br>- PowerPoint <br>- Word | Standard          | [Site](https://www.office.com/)                                     |
 | zoom.us                                                                                                           | Video Calls | [Site](https://zoom.us/download)                                     |
 
 
@@ -185,8 +193,8 @@ Run this in Terminal:
 # 6. 🎮 Nintendo Switch
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| DeepSea | [Github](https://github.com/Team-Neptune/DeepSea) | 
-| RetroArch | [Site](https://www.retroarch.com/?page=platforms) | 
+| DeepSea | Pack of necessary things | [Github](https://github.com/Team-Neptune/DeepSea) | 
+| RetroArch | Emulators | [Site](https://www.retroarch.com/?page=platforms) | 
 
 
 <br><br><br>
@@ -205,10 +213,10 @@ Run this in Terminal:
 # 8. 🥧 Raspberry Pi
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| Log2RAM | [Github](https://github.com/azlux/log2ram) | 
-| PiHole | [Github](https://github.com/pi-hole/pi-hole) | 
-| PiVPN | [Github](https://github.com/pivpn/pivpn) | 
-| Raspotify | [Github](https://github.com/dtcooper/raspotify) | 
+| Log2RAM | Writes log data to RAM vs SD Card, so your SD card lasts longer  | [Github](https://github.com/azlux/log2ram) | 
+| PiHole | DNS Shitlist sinkhole / Adblocker | [Github](https://github.com/pi-hole/pi-hole) | 
+| PiVPN | VPN Server | [Github](https://github.com/pivpn/pivpn) | 
+| Raspotify | Spootify cast on old Speakers | [Github](https://github.com/dtcooper/raspotify) | 
 
 
 <br><br><br>
