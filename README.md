@@ -15,9 +15,9 @@
 
 
 
-## 1.1 : Enable latest OS updates, on unsupported Mac models:
-| OpenCore Legacy Patcher 
-| [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
+## 1.1 : Enable latest macOS updates, on depricated hardware:
+- OpenCore Legacy Patcher 
+    - [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
 
 <br>
 
@@ -74,7 +74,7 @@ Run this in Terminal:
 | Dolphin         	| Gamecube / Wii Emulator 	| [Site](https://dolphin-emu.org/download/)                                	|
 | GIMP            	| Image Editor            	| [Site](https://www.gimp.org/downloads/)                                  	|
 | OpenEmu         	| Multi-console Emulator  	|[Site](http://openemu.org/)                                              	|
-| Plex            	| Plex Player Client      	| [Site](https://www.plex.tv/media-server-downloads/#plex-app)              	|
+| Plex Client            	| Plex Player Client      	| [Site](https://www.plex.tv/media-server-downloads/#plex-app)              	|
 | RetroArch       	| Multi-console Emulator  	| [Site](https://www.retroarch.com/?page=platforms)       	|
 | Spotify         	| Music                   	| [Site](https://www.spotify.com/us/download/)            	|
 | VLC             	| Video Player            	| [Site](https://code.videolan.org/videolan/vlc/)         	|
@@ -96,7 +96,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.6 : Various Tools
+## 2.6 : MiscTools
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | 1Password               | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190)                                                            |
@@ -124,11 +124,12 @@ Run this in Terminal:
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Aerial             | Apple TV Screensavers, on macOS                          | [Github](https://aerialscreensaver.github.io/)                                                           |
-| Amphetamine             | Stop macOS from sleeping                             | [macOS App Store](https://apps.apple.com/us/app/amphetamine/id937984704)                                                           |
-| Docker             | Image Virtualisation                             | [Site](https://docs.docker.com/desktop/install/mac-install/)    
-| Flux                    | Removes Blue light from macOS                     |[Site](https://justgetflux.com/news/pages/macquickstart/)                                                            |
+| Amphetamine             | Prevent macOS from sleeping                             | [macOS App Store](https://apps.apple.com/us/app/amphetamine/id937984704)                                                           |
+| Docker             | Virtualisation                             | [Site](https://docs.docker.com/desktop/install/mac-install/)    
+| Flux                    | Removes Blue light, to help eyesight                     |[Site](https://justgetflux.com/news/pages/macquickstart/)                                                            |
 | Irvue                   | Desktop Background Image Manager                             |[macOS App Store](https://apps.apple.com/us/app/irvue/id1039633667)                                                  |
-| Keka                    | Archive Manager                             |[Site](https://www.keka.io/)                                                            |
+| Java                  | JDK 11 runtime                             |[Site](https://www.oracle.com/java/technologies/downloads/#java11-mac)
+| Keka                    | Archive (zip, rar) Manager                             |[Site](https://www.keka.io/)                                                            |
 | MacMediaKeyForwarder    | Stops macOS play (⏯️) key from defaulting to Apple Music, and use Active Player (Spotify/Browser) instead                              | [Github](https://github.com/milgra/macmediakeyforwarder)             |
 | Menu World Time         | App for showing timezones in Menu Bar                             | [macOS App Store](https://apps.apple.com/us/app/menu-world-time/id1446377255) |
 | Muse Bar         | Touchbar controls for Spotify                             | [Github](https://github.com/planecore/MuseBar) |
@@ -193,8 +194,11 @@ Run this in Terminal:
 # 6. 🎮 Nintendo Switch
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| DeepSea | Pack of necessary things | [Github](https://github.com/Team-Neptune/DeepSea) | 
+| DeepSea | Package of all the things | [Github](https://github.com/Team-Neptune/DeepSea) | 
+| NS-Loader | NSP Loader | [Github](https://github.com/developersu/ns-usbloader) | 
+| Browser Boot Payload Injector | Works on Chrome only | [Site](https://webcfw.sdsetup.com/) | 
 | RetroArch | Emulators | [Site](https://www.retroarch.com/?page=platforms) | 
+
 
 
 <br><br><br>
@@ -203,8 +207,8 @@ Run this in Terminal:
 # 7. 🖥️ Synology NAS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| Docker | | 
-| Plex Server |  | 
+| Docker | Virtualization | 
+| Plex Server | Media Steaming | 
 
 
 <br><br><br>
