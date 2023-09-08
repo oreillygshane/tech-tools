@@ -4,9 +4,9 @@
 3. 🖥️ macOS: Server
 4. 🦊 Firefox Plugins
 5. 🤖 Android
-6. 🎮 Nintendo Switch
-7. 🖥️ Synology NAS
-8. 🥧 Raspberry Pi
+6. 🖥️ Synology NAS
+7. 🥧 Raspberry Pi
+8. 🎮 Nintendo Switch
 9. 📲 iPadOS
 
 <br><br>
@@ -191,20 +191,7 @@ Run this in Terminal:
 <br><br><br>
 
 
-# 6. 🎮 Nintendo Switch
-| What?                   | Why?                         | Link                                                       |
-|-------------------------|------------------------------|------------------------------------------------------------|
-| DeepSea | Package of all the things | [Github](https://github.com/Team-Neptune/DeepSea) | 
-| NS-Loader | NSP Loader | [Github](https://github.com/developersu/ns-usbloader) | 
-| Browser Boot Payload Injector | Works on Chrome only | [Site](https://webcfw.sdsetup.com/) | 
-| RetroArch | Emulators | [Site](https://www.retroarch.com/?page=platforms) | 
-
-
-
-<br><br><br>
-
-
-# 7. 🖥️ Synology NAS
+# 6. 🖥️ Synology NAS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Docker | Virtualization | 
@@ -214,7 +201,7 @@ Run this in Terminal:
 <br><br><br>
 
 
-# 8. 🥧 Raspberry Pi
+# 7. 🥧 Raspberry Pi
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Log2RAM | Writes log data to RAM vs SD Card, so your SD card lasts longer  | [Github](https://github.com/azlux/log2ram) | 
@@ -226,7 +213,54 @@ Run this in Terminal:
 <br><br><br>
 
 
+# 8. 🎮 Nintendo Switch
+| What?                   | Why?                         | Link                                                       |
+|-------------------------|------------------------------|------------------------------------------------------------|
+| NS-Loader | NSP Loader | [Github](https://github.com/developersu/ns-usbloader) | 
+| Browser Boot Payload Injector | Works on Chrome only | [Site](https://webcfw.sdsetup.com/) | 
+| ⚓️⚓️ DeepSea: Advanced | Package of all the things | [Github](https://github.com/Team-Neptune/DeepSea) | 
+| ⚓️ AIO-atmosphere-updater | ^ | ^|
+| ⚓️ Atmosphere | ^| ^|
+| ⚓️ Atmosphere - Haze | ^| ^|
+| ⚓️ aio-switch-updater | ^| ^|
+| ⚓️ Daybreak.nro | ^| ^|
+| ⚓️ DeepSea-Toolbox | ^| ^|
+| ⚓️ edizon | ^| ^|
+| ⚓️ Homebrew App Store | ^| ^|
+| ⚓️ jksv | ^| ^|
+| ⚓️ ldnmitm_config | ^| ^|
+| ⚓️ NSAInstaller | ^| ^|
+| ⚓️ reboot_to_payload.nro | | |
+| ⚓️ sys-clk-manager | ^| ^|
+| ⚓️ tinwoo | ^| ^|
+| -----|-----| |
+| Awoo-Installer | Loader | [Github](https://github.com/Huntereb/Awoo-Installer) |
+| breeze | Game Cheating Tool | [Github](https://github.com/tomvita/Breeze-Beta) |
+| Checkpoint | Save Manager | [Github](https://github.com/BernardoGiordano/Checkpoint) |
+| ftpd | FTP Server| |
+| ftpd-classic  | FTP Server| |
+| FTPD4SXOS | FTP Server| |
+| Goldleaf | Loader | [Github](https://github.com/XorTroll/Goldleaf) |
+| Lockpick | Key file Support App | [Github](https://github.com/SpaceNX/Lockpick_RCM)|
+| MelonDS  | NDS Emulator |  |
+| N-Xplorer | File Manager | [Github](https://github.com/CompSciOrBust/N-Xplorer) |
+| NX-Activity-Log | Gameplay Data + Stats | [Github](https://github.com/tallbl0nde/NX-Activity-Log) |
+| NX-Shell | File Manager | [Github](https://github.com/joel16/NX-Shell)|
+| nxmtp | File Browser Server | [Github](https://github.com/liuervehc/nxmtp) |
+| OpenLara | | |
+| RetroArch | Emulators | [Site](https://www.retroarch.com/?page=platforms) |
+| SimpleModManager | | |
+| Snake | | |
+| Switch_themes_Installer | | |
+| SysDVR-conf.nro | | |
+| tinfoil | | |
+
+
+
+<br><br><br>
+
+
 # 9. 📲 iPadOS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-|A  |B  |C 
+| A  | B  | C
