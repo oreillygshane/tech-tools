@@ -11,17 +11,17 @@
 
 <br><br>
 
-# 1. 🍎 macOS: Misc
+#  1. 🍎 macOS: Misc
 
 
 
-## 1.1 : Enable latest macOS updates, on depricated hardware:
+## 1.1. Enable latest macOS updates, on depricated hardware:
 - OpenCore Legacy Patcher 
     - [Github](https://github.com/dortania/OpenCore-Legacy-Patcher) 
 
 <br>
 
-## 1.2 : Remove Screenshot Shadow
+## 1.2. Remove Screenshot Shadow
 Run both commands in Terminal:
 > defaults write com.apple.screencapture disable-shadow -bool true
 
@@ -29,7 +29,7 @@ Run both commands in Terminal:
 
 <br>
 
-## 1.3 : Enable Sidecar, on unsupported Mac models:
+## 1.3. Enable Sidecar, on unsupported Mac models:
 Run this in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
@@ -38,7 +38,7 @@ Run this in Terminal:
 
 
 # 2. 💻 macOS: Personal
-## 2.1 : Browsers
+## 2.1. Browsers
 | What?               	| What                         							 	| Link                        		|
 |-----------------	|---------------------------------------------|-------------------------------|
 |Brave Browser	 	| Privacy-focused Browser, with TOR support							| [Site](https://brave.com/download/)									|
@@ -47,7 +47,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.2 : Storage
+## 2.2. Storage
 | What?        | Why?                       | Link |
 |--------------|----------------------------|------|
 | Dropbox      | Screenshots Backup                |[Site](https://www.dropbox.com/desktop)      |
@@ -56,7 +56,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.3 : Social
+## 2.3. Social
 | What?    | Why?            | Link                                                              |
 |----------|-----------------|-------------------------------------------------------------------|
 | Ferdium  | Chat aggregator |  [Github](https://github.com/ferdium/ferdium-app)                            |
@@ -65,7 +65,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.4 : Media
+## 2.4. Media
 | What?           	| Why?                    	| Link                                                             	|
 |-----------------	|-------------------------	|------------------------------------------------------------------	|
 | Adobe Lightroom 	| Photo Editing           	| [macOS App Store](https://apps.apple.com/us/app/adobe-lightroom/id1451544217) 	|
@@ -73,42 +73,42 @@ Run this in Terminal:
 | Cemu            	| WiiU Emulator           	| [Github](https://github.com/cemu-project/Cemu)                             	|
 | Dolphin         	| Gamecube / Wii Emulator 	| [Site](https://dolphin-emu.org/download/)                                	|
 | GIMP            	| Image Editor            	| [Site](https://www.gimp.org/downloads/)                                  	|
-| OpenEmu         	| Multi-console Emulator  	|[Site](http://openemu.org/)                                              	|
-| Plex Client            	| Plex Player Client      	| [Site](https://www.plex.tv/media-server-downloads/#plex-app)              	|
+| OpenEmu         	| Multi-console Emulator  	| [Site](http://openemu.org/)                                              	|
+| Plex Client       | Plex Player Client      	| [Site](https://www.plex.tv/media-server-downloads/#plex-app)              	|
 | RetroArch       	| Multi-console Emulator  	| [Site](https://www.retroarch.com/?page=platforms)       	|
 | Spotify         	| Music                   	| [Site](https://www.spotify.com/us/download/)            	|
 | VLC             	| Video Player            	| [Site](https://code.videolan.org/videolan/vlc/)         	|
 
 <br>
 
-## 2.5 : Dev Tools
+## 2.5. Dev Tools
 | What?                          | Why?             | Link                                                         |
 |--------------------------|------------------|-------------------------------------------------------------|
-| Android platform tools   | Android Dev CLI Suite                 | [Site](https://developer.android.com/tools/releases/platform-tools) |
-| Brew                     | CLI App Store                 | [Site](https://brew.sh/)                                                             |
-| Gas Mask                 | Host File Editor | [Github](https://github.com/2ndalpha/gasmask)                         |
-| iTerm                    | macOS Terminal enhancer                  | [Site](https://iterm2.com/)                                                            |
-| Microsoft Remote Desktop | RDP Client                  | [macOS App Store](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)                                                  |
-| PixelFlasher             | App for flashing Pixel Phone updates, and retaining Magisk                 | [Github](https://github.com/badabing2005/PixelFlasher)                |
-| Python            |  Python runtime                 | [Site](https://www.python.org/downloads/)                                                            |
-| Visual Studio Code       | Code Editor                  | [Site](https://code.visualstudio.com/)                                                            |
-| YT-DLP                   | CLI for ripping online videos                   |[Github](https://github.com/yt-dlp/yt-dlp)                            |
+| Android platform tools    | Android Dev CLI Suite      | [Site](https://developer.android.com/tools/releases/platform-tools) |
+| Brew                      | CLI App Store      | [Site](https://brew.sh/)                                                             |
+| Gas Mask                  | Host File Editor       | [Github](https://github.com/2ndalpha/gasmask)                         |
+| iTerm                     | macOS Terminal enhancer        | [Site](https://iterm2.com/)   |
+| Microsoft Remote Desktop  | RDP Client                  | [macOS App Store](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)                                                  |
+| PixelFlasher              | App for flashing Pixel Phone updates, and retaining Magisk                 | [Github](https://github.com/badabing2005/PixelFlasher)   |
+| Python                    |  Python runtime                 | [Site](https://www.python.org/downloads/)   |
+| Visual Studio Code        | Code Editor                  | [Site](https://code.visualstudio.com/) |
+| YT-DLP                    | CLI for ripping online videos                   |[Github](https://github.com/yt-dlp/yt-dlp)   |
 
 <br>
 
-## 2.6 : MiscTools
+## 2.6. Misc Tools
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| 1Password               | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190)                                                            |
-| AppCleaner              | Uninstall Manager                             | [Site](https://freemacsoft.net/appcleaner/)                                                            |
-| Authy Desktop           | 2FA Manager                             | [Site](https://authy.com/download/)                                                           |
-| balenaEtcher           | Flash ISOs to USB                             | [Site](https://etcher.balena.io/)                                                           |
+| 1Password                 | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190)                                                            |
+| AppCleaner                | Uninstall Manager                             | [Site](https://freemacsoft.net/appcleaner/)                                                            |
+| Authy Desktop             | 2FA Manager                             | [Site](https://authy.com/download/)                                                           |
+| balenaEtcher              | Flash ISOs to USB                             | [Site](https://etcher.balena.io/)                                                           |
 | BetterDisplay           | Manage Screen resolutions, and override SideCar| [Github](https://github.com/AikoCute-Offical/BetterDisplay#readme)                                                           |
 | ColorSlurp              | Pick the HEX code from anywhere on your screen                             |[macOS App Store](https://apps.apple.com/us/app/colorslurp/id1287239339)|
 | Fing              | Network Scanner                             |[macOS App Store](https://apps.apple.com/us/app/fing-network-scanner/id430921107)|
 | Gapplin              | SVG Manager                             |[macOS App Store](https://apps.apple.com/us/app/fing-network-scanner/id430921107)|
 | Handbrake              | Video File Converter                             |[Github](https://github.com/HandBrake/HandBrake)|
-| ImageOptim              | Bulk-converter for lossy images                             |[Github](https://imageoptim.com/mac)|
+| ImageOptim              | Bulk-converter for lossy images                             |[Site](https://imageoptim.com/mac)|
 | LanScan              | Network scanner                             |[macOS App Store](https://apps.apple.com/us/app/lanscan/id472226235)|
 | Microsoft To Do         | To-Dos                             | [macOS App Store](https://apps.apple.com/us/app/microsoft-to-do/id1274495053)                                                            |
 | NordVPN                 | VPN with origin servers Globally                          | [macOS App Store](https://apps.apple.com/us/app/nordvpn-vpn-fast-secure/id905953485)                                                            |
@@ -120,7 +120,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.7 : Services
+## 2.7. Services
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Aerial             | Apple TV Screensavers, on macOS                          | [Github](https://aerialscreensaver.github.io/)                                                           |
@@ -134,6 +134,7 @@ Run this in Terminal:
 | Menu World Time         | App for showing timezones in Menu Bar                             | [macOS App Store](https://apps.apple.com/us/app/menu-world-time/id1446377255) |
 | Muse Bar         | Touchbar controls for Spotify                             | [Github](https://github.com/planecore/MuseBar) |
 | Muzzle         | Auto-DND when on calls                             | [Site](https://muzzleapp.com/) |
+| Oh My Zsh         | Zsh Shell addons                          | [Github](https://github.com/ohmyzsh/ohmyzsh) |
 | PiBar                   | Menu Bar for Pi Hole                             | [Github](https://github.com/amiantos/pibar)                          |
 | Postman                   | API Validation + Testing                             | [Website](https://www.postman.com/downloads/)     
 | Rectangle               | Window re-sizer                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
@@ -142,7 +143,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.8 : Work 
+## 2.8. Work 
 
 | What?                                                                                                             | Why?     | Link                                                         |
 |-------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------|
@@ -207,7 +208,7 @@ Run this in Terminal:
 | Log2RAM | Writes log data to RAM vs SD Card, so your SD card lasts longer  | [Github](https://github.com/azlux/log2ram) | 
 | PiHole | DNS Shitlist sinkhole / Adblocker | [Github](https://github.com/pi-hole/pi-hole) | 
 | PiVPN | VPN Server | [Github](https://github.com/pivpn/pivpn) | 
-| Raspotify | Spootify cast on old Speakers | [Github](https://github.com/dtcooper/raspotify) | 
+| Raspotify | Spotify cast on old Speakers | [Github](https://github.com/dtcooper/raspotify) | 
 
 
 <br><br><br>
