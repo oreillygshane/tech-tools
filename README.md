@@ -227,44 +227,46 @@ Run this in Terminal:
 # 8. 🎮 Nintendo Switch
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| NS-Loader | NSP Loader | [Github](https://github.com/developersu/ns-usbloader) | 
 | Browser Boot Payload Injector | Works on Chrome only | [Site](https://webcfw.sdsetup.com/) | 
-| ⚓️⚓️ DeepSea: Advanced | Package of all the things | [Github](https://github.com/Team-Neptune/DeepSea) | 
-| ⚓️ AIO-atmosphere-updater | ^ | ^|
-| ⚓️ Atmosphere | ^| ^|
-| ⚓️ Atmosphere - Haze | ^| ^|
-| ⚓️ aio-switch-updater | ^| ^|
-| ⚓️ Daybreak.nro | ^| ^|
-| ⚓️ DeepSea-Toolbox | ^| ^|
-| ⚓️ edizon | ^| ^|
-| ⚓️ Homebrew App Store | ^| ^|
-| ⚓️ jksv | ^| ^|
-| ⚓️ ldnmitm_config | ^| ^|
-| ⚓️ NSAInstaller | ^| ^|
-| ⚓️ reboot_to_payload.nro | | |
-| ⚓️ sys-clk-manager | ^| ^|
-| ⚓️ tinwoo | ^| ^|
-| -----|-----| |
+| NS-Loader | NSP Loader | [Github](https://github.com/developersu/ns-usbloader) | 
+| ⚓️⚓️ DeepSea: Advanced ⚓️⚓️ | Package with all the things | [Github](https://github.com/Team-Neptune/DeepSea) | 
+| ⚓️ AIO-switch-updater | All-in-one Updater | ^
+| ⚓️ Atmosphère | CFW | ^ |
+| ⚓️ DeepSea Assets | Pack Tools | ^ |
+| ⚓️ DeepSea Cleaner | Pack Tools | ^ |
+| ⚓️ DeepSea CPR | Pack Tools | ^ |
+| ⚓️ DeepSea Toolbox | Pack Tools | ^ |
+| ⚓️ EdiZon-SE | Save Manager | ^ |
+| ⚓️ EdiZon-Overlay | Save Manager | ^ |
+| ⚓️ Emuiibo | Virtual amiibo  | ^ |
+| ⚓️ Hekate | NX Bootloader | ^ |
+| ⚓️ Homebrew App Store | App Store | ^ |
+| ⚓️ JKSV | Save Manager | ^ |
+| ⚓️ ldn_mitm | LAN Injector | ^ |
+| ⚓️ MissionControl | 3rd Party Controllers - Bluetooth | ^ |
+| ⚓️ nx-ovlloader | Tesla Overlay Helper | ^ |
+| ⚓️ NX-Shell | File Manager | ^ |
+| ⚓️ ovlSysmodules | Tesla Overlay Helper | ^ |
+| ⚓️ Status Monitor Overlay | Tesla Overlay | ^ |
+| ⚓️ sys-clk | Tesla Clock Overrides | ^ |
+| ⚓️ sys-con | 3rd Party Controllers | ^ |
+| ⚓️ sys-ftpd-light | Background FTP | ^ |
+| ⚓️ TegraExplorer | File Managers | ^ |
+| ⚓️ Tesla-Menu | Overlays | ^ |
+| ⚓️ TinWoo | Game Installer | ^ |
 | Awoo-Installer | Loader | [Github](https://github.com/Huntereb/Awoo-Installer) |
 | breeze | Game Cheating Tool | [Github](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | Save Manager | [Github](https://github.com/BernardoGiordano/Checkpoint) |
-| ftpd | FTP Server| |
-| ftpd-classic  | FTP Server| |
 | FTPD4SXOS | FTP Server| |
 | Goldleaf | Loader | [Github](https://github.com/XorTroll/Goldleaf) |
 | Lockpick | Key file Support App | [Github](https://github.com/SpaceNX/Lockpick_RCM)|
-| MelonDS  | NDS Emulator |  |
-| N-Xplorer | File Manager | [Github](https://github.com/CompSciOrBust/N-Xplorer) |
+| MelonDS  | NDS Emulator | [Github](https://github.com/melonDS-emu/melonDS) |
 | NX-Activity-Log | Gameplay Data + Stats | [Github](https://github.com/tallbl0nde/NX-Activity-Log) |
-| NX-Shell | File Manager | [Github](https://github.com/joel16/NX-Shell)|
-| nxmtp | File Browser Server | [Github](https://github.com/liuervehc/nxmtp) |
-| OpenLara | | |
+| OpenLara | FOSS Tomb Raider 1 | [Github](https://github.com/XProger/OpenLara)|
 | RetroArch | Emulators | [Site](https://www.retroarch.com/?page=platforms) |
-| SimpleModManager | | |
-| Snake | | |
-| Switch_themes_Installer | | |
-| SysDVR-conf.nro | | |
-| tinfoil | | |
+| SimpleModManager | Mods | [Github](https://github.com/nadrino/SimpleModManager) |
+| SysDVR | Streamer | [Github](https://github.com/exelix11/SysDVR) |
+| Tinfoil | Shop Browser | [Site](https://tinfoil.io/Download) |
 
 
 
@@ -274,4 +276,5 @@ Run this in Terminal:
 # 9. 📲 iPadOS
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
-| A  | B  | C
+| Wireguard  | B  | C
+| VLC | |
