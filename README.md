@@ -1,13 +1,21 @@
 # SOR Tech Stack
-1. 🍎 [macOS: Misc](#1.-🍎-macos:-misc)
-2. 💻 macOS: Personal
-3. 🖥️ macOS: Server
-4. 🦊 Firefox Plugins
-5. 🤖 Android
-6. 🖥️ Synology NAS
-7. 🥧 Raspberry Pi
-8. 🎮 Nintendo Switch
-9. 📲 iPadOS
+1. [🍎 macOS: Misc](#1-macos-misc)
+2. [💻 macOS: Personal](#2--macos-personal)
+    * 2.1 [🛜 Browsers](#21-browsers)
+    * 2.2 [☁️ Storage](#22-storage)
+    * 2.3 [🎙️ Social](#23-social)
+    * 2.4 [🍿 Media](#24-media)
+    * 2.5 [⌨️ Dev Tools](#25-dev-tools)
+    * 2.6 [🛠️ Misc Tools](#26-misc-tools)
+    * 2.7 [⚙️ Services](#27-services)
+    * 2.8 [👔 Work](#28-work)
+3. [🖥️ macOS: Server](#3--macos-server)
+4. [🦊 Firefox Plugins](#4--firefox-plugins)
+5. [🤖 Android](#5--android)
+6. [🖥️ Synology NAS](#6--synology-nas)
+7. [🥧 Raspberry Pi](#7--raspberry-pi)
+8. [🎮 Nintendo Switch](#8--nintendo-switch)
+9. [📲 iPadOS]((#9--ipados))
 
 <br><br>
 
@@ -42,7 +50,7 @@ Run this in Terminal:
 
 
 # 2. 💻 macOS: Personal
-## 2.1. Browsers
+## 2.1. 🛜 Browsers
 | What?               	| What                         							 	| Link                        		|
 |-----------------	|---------------------------------------------|-------------------------------|
 |Brave Browser	 	| Privacy-focused Browser, with TOR support							| [Site](https://brave.com/download/)									|
@@ -51,7 +59,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.2. Storage
+## 2.2. ☁️ Storage
 | What?        | Why?                       | Link |
 |--------------|----------------------------|------|
 | Dropbox      | Screenshots Backup                |[Site](https://www.dropbox.com/desktop)      |
@@ -60,7 +68,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.3. Social
+## 2.3. 🎙️ Social
 | What?    | Why?            | Link                                                              |
 |----------|-----------------|-------------------------------------------------------------------|
 | Ferdium  | Chat aggregator |  [Github](https://github.com/ferdium/ferdium-app)                            |
@@ -69,7 +77,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.4. Media
+## 2.4. 🍿 Media
 | What?           	| Why?                    	| Link                                                             	|
 |-----------------	|-------------------------	|------------------------------------------------------------------	|
 | Adobe Lightroom 	| Photo Editing           	| [macOS App Store](https://apps.apple.com/us/app/adobe-lightroom/id1451544217) 	|
@@ -85,7 +93,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.5. Dev Tools
+## 2.5. ⌨️ Dev Tools
 | What?                          | Why?             | Link                                                         |
 |--------------------------|------------------|-------------------------------------------------------------|
 | Android platform tools    | Android Dev CLI Suite      | [Site](https://developer.android.com/tools/releases/platform-tools) |
@@ -100,7 +108,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.6. Misc Tools
+## 2.6. 🛠️ Misc Tools
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | 1Password                 | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190)                                                            |
@@ -124,7 +132,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.7. Services
+## 2.7. ⚙️ Services
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Aerial             | Apple TV Screensavers, on macOS                          | [Github](https://aerialscreensaver.github.io/)                                                           |
@@ -147,7 +155,7 @@ Run this in Terminal:
 
 <br>
 
-## 2.8. Work 
+## 2.8. 👔 Work 
 
 | What?                                                                                                             | Why?     | Link                                                         |
 |-------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------|
@@ -212,7 +220,7 @@ Run this in Terminal:
 | Docker: Kitana | Plex Pluin manager | [Github](https://github.com/pannal/Kitana) <br><br> [Docker Image](https://hub.docker.com/r/pannal/kitana) |
 | Docker: Photoprism | Photo Manager | [Github]() <br><br> [Docker Image](https://hub.docker.com/r/photoprism/photoprism) |
 
-s
+
 <br><br><br>
 
 
