@@ -162,8 +162,9 @@ Run this in Terminal:
 | What?                   | Why?                         | Link                                                       |
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Radarr | Movies Scanner | [Github](https://github.com/Radarr/Radarr)
-| Sonarr | TV Show Scanner | [Github](https://github.com/Sonarr/Sonarr) 
-| UTorrent | Torz  | 
+| Sonarr | TV Show Scanner | [Github](https://github.com/Sonarr/Sonarr)
+| UTorrent | Torz  |
+| FlareSolverr | Cloudflare Challenge Solver | [Gihub](https://github.com/FlareSolverr/FlareSolverr)
 
 
 <br><br><br>
@@ -197,6 +198,15 @@ Run this in Terminal:
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Docker | Virtualization | 
 | Plex Server | Media Steaming | 
+| Docker: Whoogle | Stripped Google Search | [Github](https://github.com/benbusby/whoogle-search)<br><br> [Docker Image](https://registry.hub.docker.com/r/benbusby/whoogle-search#!)|
+| Docket: Heimdall | Dashboard for Local Network Services | [Github](https://github.com/linuxserver/Heimdall) <br><br> [Docker Image](https://registry.hub.docker.com/r/linuxserver/heimdall)|
+| Docker: Joplin | Note Taking + To-Do | [Github](https://github.com/laurent22/joplin) [Docker Image](https://registry.hub.docker.com/r/joplin/server)|
+| Docker: Portainer | Virtualised Image Management | [Github](https://github.com/portainer/portainer)<br><br> [Docker Image](https://registry.hub.docker.com/r/portainer/portainer-ce) |
+| Docker: Minio | S3 Emulated Storage | [Github](https://github.com/minio/minio) [Docker Image](https://hub.docker.com/r/minio/minio/#!)|
+| Docker: Tautulli | Plex Monitoring + Stats | [Github](https://github.com/Tautulli/Tautulli) <br><br> [Docker Image](https://hub.docker.com/r/tautulli/tautulli) |
+| Docker: Calibre Web | Calibre in a browser | [Github](https://github.com/janeczku/calibre-web) <br><br> [Doocker Image](https://hub.docker.com/r/linuxserver/calibre-web)  |
+| Docker: Kitana | Plex Pluin manager | [Github](https://github.com/pannal/Kitana) <br><br> [Docker Image](https://hub.docker.com/r/pannal/kitana) |
+| Docker: Photoprism | Photo Manager | [Github]() <br><br> [Docker Image](https://hub.docker.com/r/photoprism/photoprism) |
 
 
 <br><br><br>
