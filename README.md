@@ -34,6 +34,10 @@ Run this in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
 
+## 1.4. Fix Slow macOS Wifi, by disabling AWDL ('Apple Wireless Direct Link', Airdrop etc)
+Run this in Terminal:
+>sudo ifconfig awdl0 down
+
 <br><br><br>
 
 
@@ -102,7 +106,7 @@ Run this in Terminal:
 | 1Password                 | Password Manager                             | [macOS App Store](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190)                                                            |
 | AppCleaner                | Uninstall Manager                             | [Site](https://freemacsoft.net/appcleaner/)                                                            |
 | Authy Desktop             | 2FA Manager                             | [Site](https://authy.com/download/)                                                           |
-| balenaEtcher              | Flash ISOs to USB                             | [Site](https://etcher.balena.io/)                                                           |
+| balenaEtcher              | Flash ISOs to USB                             | [Github](https://github.com/balena-io/etcher)                                                           |
 | BetterDisplay           | Manage Screen resolutions, and override SideCar| [Github](https://github.com/AikoCute-Offical/BetterDisplay#readme)                                                           |
 | ColorSlurp              | Pick the HEX code from anywhere on your screen                             |[macOS App Store](https://apps.apple.com/us/app/colorslurp/id1287239339)|
 | Fing              | Network Scanner                             |[macOS App Store](https://apps.apple.com/us/app/fing-network-scanner/id430921107)|
@@ -198,17 +202,17 @@ Run this in Terminal:
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Docker | Virtualization | 
 | Plex Server | Media Steaming | 
-| Docker: Whoogle | Stripped Google Search | [Github](https://github.com/benbusby/whoogle-search)<br><br> [Docker Image](https://registry.hub.docker.com/r/benbusby/whoogle-search#!)|
+| Docker: Whoogle | Stripped Google Search | [Github](https://github.com/benbusby/whoogle-search) <br><br> [Docker Image](https://registry.hub.docker.com/r/benbusby/whoogle-search#!)|
 | Docket: Heimdall | Dashboard for Local Network Services | [Github](https://github.com/linuxserver/Heimdall) <br><br> [Docker Image](https://registry.hub.docker.com/r/linuxserver/heimdall)|
-| Docker: Joplin | Note Taking + To-Do | [Github](https://github.com/laurent22/joplin) [Docker Image](https://registry.hub.docker.com/r/joplin/server)|
-| Docker: Portainer | Virtualised Image Management | [Github](https://github.com/portainer/portainer)<br><br> [Docker Image](https://registry.hub.docker.com/r/portainer/portainer-ce) |
-| Docker: Minio | S3 Emulated Storage | [Github](https://github.com/minio/minio) [Docker Image](https://hub.docker.com/r/minio/minio/#!)|
+| Docker: Joplin | Note Taking + To-Do | [Github](https://github.com/laurent22/joplin) <br><br> [Docker Image](https://registry.hub.docker.com/r/joplin/server)|
+| Docker: Portainer | Virtualised Image Management | [Github](https://github.com/portainer/portainer) <br><br> [Docker Image](https://registry.hub.docker.com/r/portainer/portainer-ce) |
+| Docker: Minio | S3 Emulated Storage | [Github](https://github.com/minio/minio) <br><br> [Docker Image](https://hub.docker.com/r/minio/minio/#!)|
 | Docker: Tautulli | Plex Monitoring + Stats | [Github](https://github.com/Tautulli/Tautulli) <br><br> [Docker Image](https://hub.docker.com/r/tautulli/tautulli) |
-| Docker: Calibre Web | Calibre in a browser | [Github](https://github.com/janeczku/calibre-web) <br><br> [Doocker Image](https://hub.docker.com/r/linuxserver/calibre-web)  |
+| Docker: Calibre Web | Calibre in a browser | [Github](https://github.com/janeczku/calibre-web) <br><br> [Docker Image](https://hub.docker.com/r/linuxserver/calibre-web)  |
 | Docker: Kitana | Plex Pluin manager | [Github](https://github.com/pannal/Kitana) <br><br> [Docker Image](https://hub.docker.com/r/pannal/kitana) |
 | Docker: Photoprism | Photo Manager | [Github]() <br><br> [Docker Image](https://hub.docker.com/r/photoprism/photoprism) |
 
-
+s
 <br><br><br>
 
 
