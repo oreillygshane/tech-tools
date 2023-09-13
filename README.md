@@ -38,12 +38,12 @@ Run both commands in Terminal:
 <br>
 
 ## 1.3. Enable Sidecar, on unsupported Mac models:
-Run this in Terminal:
+Run this command in Terminal:
 >defaults write com.apple.sidecar.display AllowAllDevices -bool true; defaults write com.apple.sidecar.display hasShownPref -bool true; open /System/Library/PreferencePanes/Sidecar.prefPane
 
 
 ## 1.4. Fix Slow macOS Wifi, by disabling AWDL ('Apple Wireless Direct Link', Airdrop etc)
-Run this in Terminal:
+Fixes [this issue](https://www.reddit.com/r/macbookpro/comments/rtyjbt/finally_solved_my_slow_wifi_speeds_on_my_2021/). Run this command in Terminal:
 >sudo ifconfig awdl0 down
 
 <br><br><br>
@@ -150,6 +150,7 @@ Run this in Terminal:
 | PiBar                   | Menu Bar for Pi Hole                             | [Github](https://github.com/amiantos/pibar)                          |
 | Postman                   | API Validation + Testing                             | [Website](https://www.postman.com/downloads/)     
 | Rectangle               | Window re-sizer                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
+| rEFInd | EFI Boot Manager | [Site](http://www.rodsbooks.com/refind/) |
 | ToothFairy              | Bluetooth Headphones Manager |[Site](https://apps.apple.com/us/app/toothfairy/id1191449274)                                                            |
 | YouType              | Locale Flags in Menu Bar |[Github](https://github.com/freefelt/YouType)                                                            |
 
