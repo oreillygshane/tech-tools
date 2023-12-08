@@ -176,9 +176,9 @@ Fixes [this issue](https://www.reddit.com/r/macbookpro/comments/rtyjbt/finally_s
 |-------------------------|------------------------------|------------------------------------------------------------|
 | Radarr | Movies Scanner | [Github](https://github.com/Radarr/Radarr)
 | Sonarr | TV Show Scanner | [Github](https://github.com/Sonarr/Sonarr)
-| UTorrent | Torz  |
+| QBittorrent | Torz  | [Github](https://github.com/qbittorrent/qBittorrent)
+| QBittorrent Telegram Notifications | <- | [Gihub](https://github.com/rteixeirax/qbittorrent_telegram_notification)
 | FlareSolverr | Cloudflare Challenge Solver | [Gihub](https://github.com/FlareSolverr/FlareSolverr)
-
 
 <br><br><br>
 
