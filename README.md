@@ -152,6 +152,8 @@ Fixes [this issue](https://www.reddit.com/r/macbookpro/comments/rtyjbt/finally_s
 | Rectangle               | Window re-sizer                              | [Github](https://github.com/rxhanson/Rectangle/)                     |
 | rEFInd | EFI Boot Manager | [Site](http://www.rodsbooks.com/refind/) |
 | ToothFairy              | Bluetooth Headphones Manager |[Site](https://apps.apple.com/us/app/toothfairy/id1191449274)                                                            |
+| TopNotch | Make the annoying notch completely black | [Site](https://topnotch.app/) | 
+| Vanilla | Menu Bar Icon Manager, to handle the annoying notch limitations | [Site](https://matthewpalmer.net/vanilla/) |
 | YouType              | Locale Flags in Menu Bar |[Github](https://github.com/freefelt/YouType)                                                            |
 
 <br>
